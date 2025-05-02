@@ -1,0 +1,35 @@
+Bestellung vom 2024-10-08 12:19:50
+2x Bier
+8x Apfel
+12x Tee
+Nettopreis: 39.6 Euro
+Bruttopreis: 47.12 Euro
+----------------------------------------
+Bestellung vom 2024-10-08 12:24:28
+20x Bier
+30x Apfel
+55x Tee
+Nettopreis: 211.5 Euro
+Bruttopreis: 251.69 Euro
+----------------------------------------
+Bestellung vom 2024-10-08 14:41:25
+20x Bier
+12212x Apfel
+Nettopreis: 16558.2 Euro
+Bruttopreis: 19704.26 Euro
+----------------------------------------
+Bestellung vom 2024-10-09 09:54:07
+30x Bier
+Nettopreis: 108.0 Euro
+Bruttopreis: 128.52 Euro
+----------------------------------------
+Bestellung vom 2024-10-09 10:49:47
+20x Kekse
+Nettopreis: 10.0 Euro
+Bruttopreis: 11.9 Euro
+----------------------------------------
+Bestellung vom 2024-10-09 10:49:56
+3x Kaffee
+Nettopreis: 7.5 Euro
+Bruttopreis: 8.92 Euro
+----------------------------------------

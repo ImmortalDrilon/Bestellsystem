@@ -1,0 +1,284 @@
+[
+    {
+        "id": 3,
+        "timestamp": "2024-10-09 13:11:20.910770",
+        "bestellungen": {
+            "Bier": 2
+        },
+        "nettopreis": 8.0,
+        "bruttopreis": 9.52
+    },
+    {
+        "id": 5,
+        "timestamp": "2024-10-09 13:13:25.386739",
+        "bestellungen": {
+            "Bier": 1
+        },
+        "nettopreis": 4.0,
+        "bruttopreis": 4.76
+    },
+    {
+        "id": 8,
+        "timestamp": "2024-10-10 08:22:19.041392",
+        "bestellungen": {
+            "Bier": 1
+        },
+        "nettopreis": 4.0,
+        "bruttopreis": 4.76
+    },
+    {
+        "timestamp": "2024-10-10T10:41:45.871851",
+        "bestellungen": {
+            "Bier": 1
+        },
+        "nettopreis": 4.0,
+        "bruttopreis": 4.76
+    },
+    {
+        "timestamp": "2024-10-10T13:50:28.599769",
+        "bestellungen": {
+            "Bier": 2
+        },
+        "nettopreis": 8.0,
+        "bruttopreis": 9.52
+    },
+    {
+        "timestamp": "2024-10-10T13:55:22.693215",
+        "bestellungen": {
+            "Bier": 2
+        },
+        "nettopreis": 8.0,
+        "bruttopreis": 9.52
+    },
+    {
+        "timestamp": "2024-10-11 08:46:57.791757",
+        "bestellungen": {
+            "Bier": 30
+        },
+        "nettopreis": 108.0,
+        "bruttopreis": 128.52
+    },
+    {
+        "timestamp": "2024-10-11T12:08:13.522861",
+        "bestellungen": {
+            "Bier": 4
+        },
+        "nettopreis": 16.0,
+        "bruttopreis": 19.04
+    },
+    {
+        "timestamp": "2024-10-11T12:30:45.948278",
+        "bestellungen": {
+            "Bier": 600000
+        },
+        "nettopreis": 2160000.0,
+        "bruttopreis": 2570400.0
+    },
+    {
+        "timestamp": "2024-10-11T13:07:02.087862",
+        "bestellungen": {
+            "Bier": 20000,
+            "Apfel": 10
+        },
+        "nettopreis": 80015.0,
+        "bruttopreis": 95217.85
+    },
+    {
+        "id": 56,
+        "timestamp": "2024-10-11T14:28:50.634588",
+        "bestellungen": {
+            "Tee": 50
+        },
+        "nettopreis": 100.0,
+        "bruttopreis": 119.0
+    },
+    {
+        "timestamp": "2024-10-16T14:17:09.017055",
+        "bestellungen": {
+            "Krombacher 0.5": 10
+        },
+        "nettopreis": 54.0,
+        "bruttopreis": 64.26
+    },
+    {
+        "timestamp": "2024-10-17T09:03:43.943551",
+        "bestellungen": {
+            "Kaffee": 1
+        },
+        "nettopreis": 2.5,
+        "bruttopreis": 2.97
+    },
+    {
+        "timestamp": "2024-10-17T09:04:25.327212",
+        "bestellungen": {
+            "Kaffee": 1
+        },
+        "nettopreis": 2.5,
+        "bruttopreis": 2.97
+    },
+    {
+        "timestamp": "2024-10-17T09:09:48.966356",
+        "bestellungen": {
+            "Tee": 1
+        },
+        "nettopreis": 2.0,
+        "bruttopreis": 2.38
+    },
+    {
+        "timestamp": "2024-10-17T09:10:14.478991",
+        "bestellungen": {
+            "Kuchen": 2
+        },
+        "nettopreis": 6.0,
+        "bruttopreis": 7.14
+    },
+    {
+        "timestamp": "2024-10-17T09:12:14.981617",
+        "bestellungen": {
+            "Kekse": 2
+        },
+        "nettopreis": 1.0,
+        "bruttopreis": 1.19
+    },
+    {
+        "timestamp": "2024-10-17T09:13:08.294456",
+        "bestellungen": {
+            "Apfel": 5
+        },
+        "nettopreis": 7.5,
+        "bruttopreis": 8.92
+    },
+    {
+        "timestamp": "2024-10-17T10:28:02.936881",
+        "bestellungen": {
+            "Tee": 2
+        },
+        "nettopreis": 4.0,
+        "bruttopreis": 4.76
+    },
+    {
+        "timestamp": "2024-10-17T11:00:33.761164",
+        "bestellungen": {
+            "Kaffee": 1,
+            "Tee": 1,
+            "Kuchen": 1
+        },
+        "nettopreis": 7.5,
+        "bruttopreis": 8.92
+    },
+    {
+        "timestamp": "2024-10-21 10:25:31.298549",
+        "bestellungen": {
+            "Kekse": 3
+        },
+        "nettopreis": 1.5,
+        "bruttopreis": 1.78
+    },
+    {
+        "timestamp": "2024-10-21 10:29:43.545751",
+        "bestellungen": {
+            "Tee": 1
+        },
+        "nettopreis": 2.0,
+        "bruttopreis": 2.38
+    },
+    {
+        "timestamp": "2024-10-21 10:30:59.263979",
+        "bestellungen": {
+            "Tee": 1
+        },
+        "nettopreis": 2.0,
+        "bruttopreis": 2.38
+    },
+    {
+        "timestamp": "2024-10-21 11:17:10.456205",
+        "bestellungen": {
+            "Tee": 2
+        },
+        "nettopreis": 4.0,
+        "bruttopreis": 4.76
+    },
+    {
+        "timestamp": "2024-10-21 11:58:39.662076",
+        "bestellungen": {
+            "Tee": 2
+        },
+        "nettopreis": 4.0,
+        "bruttopreis": 4.76
+    },
+    {
+        "timestamp": "2024-10-21 13:24:11.726996",
+        "bestellungen": {
+            "Tee": 4
+        },
+        "nettopreis": 8.0,
+        "bruttopreis": 9.52
+    },
+    {
+        "timestamp": "2024-10-21T14:21:48.537474",
+        "bestellungen": {
+            "Tee": 2
+        },
+        "nettopreis": 4.0,
+        "bruttopreis": 4.76
+    },
+    {
+        "timestamp": "2024-10-21T17:22:44.659665",
+        "bestellungen": {
+            "Tee": 1
+        },
+        "nettopreis": 2.0,
+        "bruttopreis": 2.38
+    },
+    {
+        "timestamp": "2024-10-21T17:24:18.369603",
+        "bestellungen": {
+            "Tee": 10
+        },
+        "nettopreis": 20.0,
+        "bruttopreis": 23.8
+    },
+    {
+        "timestamp": "2024-10-21T17:35:11.468561",
+        "bestellungen": {
+            "Tee": 5
+        },
+        "nettopreis": 10.0,
+        "bruttopreis": 11.9
+    },
+    {
+        "timestamp": "2024-10-22T08:28:06.673633",
+        "bestellungen": {
+            "Tee": 55
+        },
+        "nettopreis": 110.0,
+        "bruttopreis": 130.9
+    },
+    {
+        "timestamp": "2024-10-22T10:14:40.822192",
+        "bestellungen": {
+            "Kaffee": 3
+        },
+        "nettopreis": 7.5,
+        "bruttopreis": 8.92
+    },
+    {
+        "timestamp": "2024-10-22T11:15:10.322358",
+        "bestellungen": {
+            "Kaffee": 2
+        },
+        "nettopreis": 5.0,
+        "bruttopreis": 5.95
+    },
+    {
+        "timestamp": "2024-10-22T11:19:44.241967",
+        "bestellungen": {
+            "Tee": 5,
+            "Kaffee": 10,
+            "Kuchen": 5,
+            "Apfel": 1
+        },
+        "nettopreis": 51.5,
+        "bruttopreis": 61.28
+    }
+]
